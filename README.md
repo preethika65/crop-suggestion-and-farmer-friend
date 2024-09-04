@@ -1,4 +1,4 @@
-# crop-suggestion-and-farmer-friend
+mom# crop-suggestion-and-farmer-friend
 Crop Disease and Weather Recommendation System
 
 Overview
@@ -21,3 +21,4 @@ HTML: Provides the structure and content of the web pages.
 
 Usage
 Select Crop: Choose a crop from the dropdown menu.
+Recommendations: by clicking on the recommendations we get the suggestions like pesticides, fertilizers, weather conditions and preferable soil.
