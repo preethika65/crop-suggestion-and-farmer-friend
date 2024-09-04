@@ -11,4 +11,13 @@ Features
 
 Crop and Disease Selection: Users can choose from a dropdown menu of crops and associated diseases.
 Weather-Based Recommendations: Provides fertilizer and pesticide suggestions based on the selected crop, disease, and weather conditions.
-Responsive Design: The interface is
+Responsive Design: The interface Responsive Design: The interface is designed to be fully responsive, ensuring usability across various devices and screen sizes.
+Background Image: A visually engaging background image enhances the overall user experience.
+
+Technologies Used
+
+
+HTML: Provides the structure and content of the web pages.
+
+Usage
+Select Crop: Choose a crop from the dropdown menu.
